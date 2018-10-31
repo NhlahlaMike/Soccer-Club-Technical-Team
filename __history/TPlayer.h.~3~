@@ -1,0 +1,20 @@
+//---------------------------------------------------------------------------
+
+#ifndef TPlayerH
+#define TPlayerH
+#include <vcl.h>
+//---------------------------------------------------------------------------
+class TPlayer
+{
+		AnsiString name;
+		AnsiString birthDate;
+		AnsiString position;
+		int jersyNo;
+
+	public:
+	   TPlayer();
+	   TPlayer(AnsiString nm,AnsiString bD,AnsiString pos,int jN);
+	   int extractAge();
+	   ~TPlayer();
+};
+#endif

@@ -1,0 +1,17 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "TPlayer.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+TPlayer::TPlayer()
+{
+	 name = "Unknown" ;
+	 birthDate = "xxxx";
+	 position = "xx";
+	 jersyNo = 0;
+}
+	   TPlayer(AnsiString nm,AnsiString bD,AnsiString pos,int jN);
+	   int extractAge();
+	   ~TPlayer();

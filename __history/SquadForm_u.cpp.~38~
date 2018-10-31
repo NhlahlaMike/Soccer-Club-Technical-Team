@@ -1,0 +1,138 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#pragma hdrstop
+
+#include "SquadForm_u.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TfrmSquad *frmSquad;
+//---------------------------------------------------------------------------
+__fastcall TfrmSquad::TfrmSquad(TComponent* Owner)
+	: TForm(Owner)
+{
+	Timer1->Enabled = false;
+}
+//---------------------------------------------------------------------------
+void __fastcall TfrmSquad::myButton1Click(TObject *Sender)
+{
+  for (int i = 0; i < chkSquad->Count; i++)
+  {
+	if(chkSquad->Checked[i])
+	{
+	  lsbxStart->Items->Add(chkSquad->Items->Strings[i]);
+	}
+	else
+	{
+	  lsbxSubs->Items->Add(chkSquad->Items->Strings[i]);
+	}
+  }
+  for(int c = 0; c < frmSquad->ComponentCount;)
+  {
+	TButton *btn = dynamic_cast<TButton*>(Components[c]);
+
+	if(btn != NULL)
+	{
+	  delete btn;
+	}
+	else
+		c++;
+  }
+  Timer1->Enabled = true;
+}
+//---------------------------------------------------------------------------
+
+
+void __fastcall TfrmSquad::chkSquadClickCheck(TObject *Sender)
+{
+	int count = 0;
+	for (int i = 0; i < chkSquad->Count; i++)
+	{
+		if(chkSquad->Checked[i])
+		{
+			count++;
+		}
+	}
+	if (count == 11)
+	{
+		MessageDlg("You have already selected Eleven players\n",mtInformation,
+		TMsgDlgButtons()<<mbOK,0);
+		chkSquad->Enabled = false;
+	}
+	if (count == 11 )
+	{
+		TButton *mybutton[2];
+
+		for (int i = 0; i < 2; i++)
+		{
+			mybutton[i] = new TButton(this);
+			mybutton[i]->Parent = frmSquad;
+		}
+
+		mybutton[0]->Width = 150;
+		mybutton[0]->Top = 50;
+		mybutton[0]->Left = 519;
+		mybutton[0]->OnClick = myButton1Click;
+		mybutton[0]->Caption = "***POPULATE PLAYERS***";
+
+		mybutton[1]->Width = 150;
+		mybutton[1]->Top = mybutton[0]->Top*2;
+		mybutton[1]->Left = 519;
+		mybutton[1]->OnClick = mybuttonClick;
+		mybutton[1]->Caption = "***MAKE CHANGES***";
+	}
+	if (count > 11)
+	{
+		for (int i = 0; i < chkSquad->Count; i++)
+		{
+			chkSquad->Checked[i] = false;
+		}
+		lsbxStart->Clear();
+		lsbxSubs->Clear();
+
+		for (int i = 0; i < frmSquad->ComponentCount; )
+		{
+			if (frmSquad->Components[i]->ClassNameIs("TButton"))
+			{
+				delete Components[i];
+			}
+			else
+			i++;
+		}
+  }
+
+}
+void __fastcall TfrmSquad::mybuttonClick(TObject *Sender)
+{
+   chkSquad->Enabled = true;
+
+	for (int i = 0; i < chkSquad->Count; i++)
+	{
+		chkSquad->Checked[i] = false;
+	}
+   lsbxStart->Clear();
+   lsbxSubs->Clear();
+
+  for(int c = 0; c < frmSquad->ComponentCount;)
+  {
+	TButton *btn = dynamic_cast<TButton*>(Components[c]);
+
+	if(btn != NULL)
+	{
+	  delete btn;
+	}
+	else
+		c++;
+  }
+}
+//---------------------------------------------------------------------------
+
+void __fastcall TfrmSquad::Timer1Timer(TObject *Sender)
+{
+	frmSquad->Close();
+	frmTournament->tbsResult->Show();
+	Timer1->Enabled = false;
+}
+//---------------------------------------------------------------------------
+

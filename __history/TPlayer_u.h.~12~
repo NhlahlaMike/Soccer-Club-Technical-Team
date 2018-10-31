@@ -1,0 +1,23 @@
+//---------------------------------------------------------------------------
+#ifndef TPlayer_uH
+#define TPlayer_uH
+#include <vcl.h>
+//---------------------------------------------------------------------------
+class TPlayer
+{
+	private:
+		AnsiString name;
+		AnsiString birthDate;
+		AnsiString position;
+		int jersyNo;
+
+	public:
+	   TPlayer();
+	   void setPlayer(AnsiString nm,AnsiString bD,AnsiString pos,int jN);
+       AnsiString getName();
+	   AnsiString getBirthDate();
+	   AnsiString getPosition();
+	   int getJersyNo();
+	   ~TPlayer();
+};
+#endif

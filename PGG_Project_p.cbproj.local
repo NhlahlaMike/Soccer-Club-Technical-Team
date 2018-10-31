@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/04/29 17:29:33.000.218,=D:\My Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2013/04/29 17:32:45.000.265,D:\My Documents\Members\PGG_Project_u.cpp=D:\My Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2013/04/29 17:32:45.000.265,D:\My Documents\Members\PGG_Project_u.h=D:\My Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2013/04/29 17:32:45.000.265,D:\My Documents\Members\PGG_Project_u.dfm=D:\My Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2013/04/29 17:32:55.000.781,D:\My Documents\Members\PGG_Project_p.cbproj=D:\My Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2013/04/29 17:33:27.000.250,=D:\My Documents\Members\Unit1.cpp</Transaction>
+    <Transaction>2013/04/29 17:33:32.000.109,=D:\My Documents\Members\Unit2.cpp</Transaction>
+    <Transaction>2013/04/29 17:33:55.000.828,D:\My Documents\Members\TTeam_u.h=D:\My Documents\Members\Unit1.h</Transaction>
+    <Transaction>2013/04/29 17:33:55.000.828,D:\My Documents\Members\TTeam_u.cpp=D:\My Documents\Members\Unit1.cpp</Transaction>
+    <Transaction>2013/04/29 17:34:06.000.250,D:\My Documents\Members\TPlayer.h=D:\My Documents\Members\Unit2.h</Transaction>
+    <Transaction>2013/04/29 17:34:06.000.250,D:\My Documents\Members\TPlayer.cpp=D:\My Documents\Members\Unit2.cpp</Transaction>
+    <Transaction>2013/04/29 19:14:29.000.015,=D:\My Documents\Members\Unit2.cpp</Transaction>
+    <Transaction>2013/04/29 19:27:05.000.437,D:\My Documents\Members\SquadForm_u.dfm=D:\My Documents\Members\PGG_Project_u.dfm</Transaction>
+    <Transaction>2013/04/29 19:27:05.000.437,D:\My Documents\Members\SquadForm_u.h=D:\My Documents\Members\PGG_Project_u.h</Transaction>
+    <Transaction>2013/04/29 19:27:05.000.437,D:\My Documents\Members\SquadForm_u.cpp=D:\My Documents\Members\PGG_Project_u.cpp</Transaction>
+    <Transaction>2013/04/29 19:28:49.000.406,D:\My Documents\Members\PGG_Project_u.h=D:\My Documents\Members\SquadForm_u.h</Transaction>
+    <Transaction>2013/04/29 19:28:49.000.406,D:\My Documents\Members\PGG_Project_u.dfm=D:\My Documents\Members\SquadForm_u.dfm</Transaction>
+    <Transaction>2013/04/29 19:28:49.000.406,D:\My Documents\Members\PGG_Project_u.cpp=D:\My Documents\Members\SquadForm_u.cpp</Transaction>
+    <Transaction>2013/04/29 19:29:03.000.515,D:\My Documents\Members\SquadForm_u.h=D:\My Documents\Members\Unit2.h</Transaction>
+    <Transaction>2013/04/29 19:29:03.000.515,D:\My Documents\Members\SquadForm_u.cpp=D:\My Documents\Members\Unit2.cpp</Transaction>
+    <Transaction>2013/04/29 19:29:03.000.515,D:\My Documents\Members\SquadForm_u.dfm=D:\My Documents\Members\Unit2.dfm</Transaction>
+    <Transaction>2013/04/29 19:48:56.000.109,D:\My Documents\Members\PGG_Project_p.cbproj=D:\My Documents\Members\PGG_Project_p.cbproj</Transaction>
+    <Transaction>2013/05/05 02:44:28.000.555,C:\Users\Enos jnr\Documents\Members\TPlayer.h=C:\Users\Enos jnr\Documents\Members\TPlayer_u.h</Transaction>
+    <Transaction>2013/05/05 02:44:28.000.555,C:\Users\Enos jnr\Documents\Members\TPlayer.cpp=C:\Users\Enos jnr\Documents\Members\TPlayer_u.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="PGG_Project_p.cpp"/>
+    <File Path="PGG_Project_u.cpp"/>
+    <File Path="PGG_Project_u.cpp"/>
+    <File Path="PGG_Project_u.dfm"/>
+    <File Path="PGG_Project_u.h"/>
+    <File Path="SquadForm_u.cpp"/>
+    <File Path="SquadForm_u.cpp"/>
+    <File Path="SquadForm_u.dfm"/>
+    <File Path="SquadForm_u.h"/>
+    <File Path="TPlayer_u.cpp"/>
+    <File Path="TPlayer_u.cpp"/>
+    <File Path="TPlayer_u.h"/>
+    <File Path="TTeam_u.cpp"/>
+    <File Path="TTeam_u.cpp"/>
+    <File Path="TTeam_u.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

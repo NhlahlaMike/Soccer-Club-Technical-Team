@@ -1,0 +1,463 @@
+south africa
+#	Pos.	Player	Date of birth
+1	GK	Wayne Sandilands	 23 August 1983
+16	GK	Itumeleng Khune	 20 June 1987
+22	GK	Senzo Meyiwa	 24 September 1987
+2	DF	Siboniso Gaxa	 6 April 1984
+3	DF	Tsepo Masilela	 5 May 1985
+4	DF	Thabo Nthethe	 3 October 1984
+5	DF	Anele Ngcongca	 20 October 1987
+11	DF	Thabo Matlaba	 13 December 1987
+14	DF	Bongani Khumalo	 6 January 1987
+21	DF	Siyabonga Sangweni	 29 September 1981
+6	MF	Lerato Chabangu	 15 August 1985
+8	MF	Siphiwe Tshabalala(C)	 25 September 1984
+10	MF	Thulani Serero	 11 April 1990
+12	MF	Reneilwe Letsholonyane	 9 June 1982
+13	MF	Kagisho Dikgacoi	 24 November 1984
+15	MF	Dean Furman	 22 June 1988
+18	MF	Thuso Phala	 27 May 1986
+19	MF	May Mahlangu	 1 May 1989
+20	MF	Oupa Manyisa	 30 July 1988
+7	FW	Lehlohonolo Majoro	 19 August 1986
+9	FW	Katlego Mphela	 29 November 1984
+17	FW	Bernard Parker	 16 March 1986
+23	FW	Tokelo Rantie	 8 September 1990
+
+
+
+
+Cape Verde
+#	Pos.	Player	Date of birth
+1	GK	Vozinha	 3 June 1986
+12	GK	Fock	 25 July 1982
+16	GK	Rilly	 25 January 1992
+3	DF	Fernando Varela	 26 November 1987
+4	DF	Guy Ramos	 16 August 1985
+13	DF	Josimar	 2 August 1989
+14	DF	Gegé	 24 February 1988
+18	DF	Nivaldo	 10 July 1988
+19	DF	Pecks	 10 April 1993
+23	DF	Carlitos	 23 April 1985
+2	MF	Sténio	 6 May 1988
+5	MF	Babanco	 27 July 1985
+7	MF	Platini	 16 April 1986
+8	MF	Toni Varela	 13 June 1986
+15	MF	Marco Soares(C)	 6 June 1984
+17	MF	Ronny	 7 December 1978
+22	MF	David Silva	 11 October 1986
+9	FW	Rambé	 4 October 1989
+10	FW	Héldon Nhuck	 14 December 1988
+11	FW	Júlio Tavares	 19 November 1988
+20	FW	Ryan Mendes	 8 January 1990
+21	FW	Djaniny	 21 March 1991
+
+
+
+
+Morocco
+#	Pos.	Player	Date of birth
+1	GK	Nadir Lamyaghri(C)	 13 February 1976
+12	GK	Anas Zniti	 28 October 1988
+22	GK	Yassine Bounou	 5 April 1991
+5	DF	Mehdi Benatia	 17 April 1987
+3	DF	Zakaria Bergdich	 7 January 1989
+4	DF	Ahmed Kantari	 28 June 1985
+16	DF	Ayoub El Khaliqi	 11 September 1986
+2	DF	Abderrahim Chakir	 15 December 1986
+13	DF	Younes Belakhdar	 17 June 1987
+15	DF	Khalid Sekkat	 12 May 1984
+17	DF	Issam El Adoua	 12 September 1986
+6	MF	Adil Hermach	 27 June 1986
+10	MF	Abdessamad Lambarki	 1 July 1981
+7	MF	Abdelaziz Barrada	 19 June 1989
+19	MF	Kamel Chafni	 11 June 1982
+23	MF	Mehdi Namli	 23 January 1987
+18	MF	Chakhir Belghazouani	 6 October 1986
+8	MF	Mohammed Ali Bamaamar	 19 November 1989
+9	FW	Yassine Salhi	 23 November 1987
+14	FW	Hamza Abourazzouk	 16 June 1986
+20	FW	Abderrazak Hamdallah	 17 December 1990
+24	FW	Abdelilah Hafidi	 14 May 1992
+11	FW	Adrien Regattin	 22 August 1991
+
+
+
+Angola 
+#	Pos.	Player	Date of birth
+1	GK	Lamá	 1 February 1981
+12	GK	Landú	 4 January 1990
+22	GK	Neblú	 6 September 1993
+2	DF	Marco Airosa	 6 August 1984
+3	DF	Lunguinha	 16 January 1986
+4	DF	Dani Massunguna	 1 May 1986
+5	DF	Fabrício	 20 September 1988
+10	DF	Zuela	 3 August 1983
+13	DF	Bastos	 23 November 1991
+14	DF	Amaro	 12 November 1986
+15	DF	Miguel	 17 November 1991
+20	DF	Mingo Bile	 15 June 1987
+6	MF	Dédé	 4 July 1981
+7	MF	Djalma	 30 May 1987
+8	MF	Manucho Diniz	 4 June 1986
+11	MF	Gilberto	 21 September 1982
+16	MF	Pirolito	 7 April 1993
+18	MF	Geraldo	 23 November 1991
+21	MF	Manuel	 30 December 1989
+9	FW	Manucho Gonçalves(C)	 7 March 1983
+17	FW	Mateus	 18 January 1984
+19	FW	Yano	 8 July 1992
+23	FW	Guilherme	 15 November 1985
+
+
+
+
+
+Ghana 
+#	GK	Player	Date of birth
+1	GK	Daniel Adjei	 10 November 1989
+12	GK	Adam Larsen Kwarasey	 12 December 1987
+16	GK	Abdul Fatawu Dauda	 6 April 1985
+2	DF	Richard Boateng	 25 November 1988
+4	DF	John Paintsil	 15 June 1981
+5	DF	Mohamed Awal	 1 May 1988
+13	DF	Jerry Akaminko	 2 May 1988
+15	DF	Isaac Vorsah	 21 June 1988
+19	DF	Jonathan Mensah(C)	 13 July 1990
+21	DF	John Boye	 23 April 1987
+23	DF	Harrison Afful	 24 June 1986
+6	MF	Anthony Annan	 21 July 1986
+7	MF	Christian Atsu Twasam	 10 January 1992
+8	MF	Emmanuel Agyemang-Badu	 2 December 1990
+9	MF	Derek Boateng	 2 May 1983
+10	MF	Albert Adomah	 13 December 1987
+11	MF	Mohammed Rabiu	 31 December 1989
+14	MF	Solomon Asante	 6 March 1990
+20	MF	Kwadwo Asamoah	 9 December 1988
+22	MF	Wakaso Mubarak	 25 July 1990
+3	FW	Asamoah Gyan 	 22 November 1985
+17	FW	Emmanuel Clottey	 30 August 1987
+18	FW	Richmond Boakye	 28 January 1993
+
+
+
+
+Mali 
+#	Pos.	Player	Date of birth
+1	GK	Mamadou Samassa	 16 February 1990
+16	GK	Soumbeïla Diakité	 25 August 1984
+22	GK	Aly Yirango	 6 February 1994
+2	DF	Fousseni Diawara	 28 August 1980
+3	DF	Adama Tamboura	 18 May 1985
+4	DF	Adama Coulibaly	 10 September 1980
+5	DF	Idrissa Coulibaly	 19 December 1987
+13	DF	Molla Wague	 21 February 1991
+19	DF	Salif Coulibaly	 12 June 1993
+21	DF	Mahamadou N'Diaye	 21 June 1990
+23	DF	Ousmane Coulibaly	 9 July 1989
+6	MF	Mohamed Sissoko	 22 January 1985
+7	MF	Cheick Fantamady Diarra	 11 February 1992
+8	MF	Mohamed Kalilou Traoré	 9 September 1987
+11	MF	Sigamary Diarra	 10 January 1984
+12	MF	Seydou Keita(C)	 16 January 1980
+14	MF	Sambou Yatabaré	 2 March 1989
+17	MF	Mahamane Traoré	 31 August 1988
+18	MF	Samba Sow	 29 April 1989
+20	MF	Samba Diakité	 24 January 1989
+9	FW	Cheick Diabaté	 25 April 1988
+10	FW	Modibo Maïga	 3 September 1987
+15	FW	Mamadou Samassa	 1 May 1986
+
+
+
+
+DR Congo
+#	Pos.	Player	Date of birth
+1	GK	Muteba Kidiaba	 1 February 1976
+16	GK	Parfait Mandanda	 10 October 1989
+23	GK	Landu Bakala	 3 March 1992
+2	DF	Mpeko Issama	 3 March 1986
+3	DF	Kilitcho Kasusula	 5 August 1986
+17	DF	Cédric Mongongu	 22 June 1989
+14	DF	Larrys Mabiala	 8 October 1987
+5	DF	Landry Mulemo	 17 September 1986
+19	DF	Chancel Mbemba Mangulu	 8 August 1994
+21	DF	Gabriel Zakuani	 31 May 1986
+10	MF	Zola Matumona	 26 November 1981
+18	MF	Cédric Makiadi	 23 February 1984
+12	MF	Yves Diba Ilunga	12 August 1987
+7	MF	Youssouf Mulumbu	 25 January 1987
+4	MF	Mulota Kabangu	 3 December 1985
+6	MF	Budge Manzia	 24 September 1994
+22	MF	Makuntima Kisombe	 10 October 1992
+8	FW	Trésor Mputu(C)	 10 December 1985
+15	FW	Lomana LuaLua	 28 December 1980
+13	FW	Dioko Kaluyituka	 2 January 1987
+9	FW	Dieumerci Mbokani	 22 November 1985
+11	FW	Déo Kanda	 11 August 1989
+20	FW	Nzinga Luvumbu	 23 December 1987
+
+
+
+
+Niger 
+#	Pos.	Player	Date of Birth
+16	GK	Kassaly Daouda	19 August 1983
+22	GK	Saminou Rabo	23 August 1981
+1	GK	Moussa Alzouma	30 September 1982
+13	DF	Mohamed Chikoto	 28 February 1989
+18	DF	Koffi Dan Kowa	19 September 1989
+4	DF	Kader Amadou	5 April 1989
+15	DF	Ismaël Alassane	3 April 1984
+23	DF	Mohamed Soumaïla	30 October 1994
+21	DF	Mohamed Bachar	6 November 1992
+8	DF	Kourouma Fatoukouma	11 July 1984
+5	DF	Luky James	23 July 1992
+3	MF	Lassina Abdoul Karim	 20 May 1987
+6	MF	Idrissa Laouali	11 September 1979
+17	MF	William N'Gounou	31 July 1983
+14	MF	Issoufou Boubacar Garba	2 February 1990
+12	MF	Souleymane Dela Sacko	1 August 1987
+10	MF	Boubacar Talatou	12 March 1987
+19	MF	Issiaka Koudize	3 January 1987
+20	MF	Amadou Moutari	19 January 1994
+9	FW	Kamilou Daouda	29 December 1987
+11	FW	Alhassane Issoufou	1 January 1981
+2	FW	Moussa Maâzou(c)	25 August 1988
+7	FW	Modibo Sidibé	5 December 1985
+
+
+
+Burkina Faso
+#	Pos.	Player	Date of birth
+1	GK	Daouda Diakité	 30 March 1983
+16	GK	Abdoulaye Soulama	 19 November 1979
+23	GK	Germain Sanou	 26 May 1992
+3	DF	Henri Traoré	 13 April 1983
+4	DF	Bakary Koné	 27 April 1988
+7	DF	Florent Rouamba	 31 December 1986
+8	DF	Paul Kéba Koulibaly	 24 March 1986
+12	DF	Saïdou Panandétiguiri	 22 March 1984
+14	DF	Benjamin Balima	 20 March 1985
+5	MF	Mohamed Koffi	 30 December 1986
+6	MF	Djakaridja Koné	 22 July 1986
+11	MF	Jonathan Pitroipa	 12 April 1986
+13	MF	Issouf Ouattara	7 October 1988
+17	MF	Ali Rabo	 6 June 1986
+18	MF	Charles Kaboré	 9 February 1988
+20	MF	Wilfried Sanou	 16 March 1984
+21	MF	Abdou Razack Traoré	 28 December 1988
+2	FW	Hugues-Wilfried Dah	 10 July 1986
+9	FW	Moumouni Dagano(c)	 3 January 1981
+10	FW	Alain Traoré	 31 December 1988
+15	FW	Aristide Bancé	 19 September 1984
+19	FW	Pan Pierre Koulibaly	 24 March 1986
+22	FW	Prejuce Nakoulma	 21 April 1987
+
+
+
+
+
+
+Nigeria 
+#	Pos.	Player	Date of birth
+1	GK	Vincent Enyeama	 29 August 1982
+16	GK	Austin Ejide	 8 April 1984
+23	GK	Chigozie Agbim	 28 November 1984
+2	DF	Joseph Yobo(c)	 6 September 1980
+3	DF	Uwa Elderson Echiéjilé	 20 January 1988
+5	DF	Efe Ambrose	 18 October 1988
+6	DF	Azubuike Egwuekwe	 28 November 1988
+14	DF	Godfrey Oboabona	 16 August 1990
+21	DF	Juwon Oshaniwa	 14 September 1990
+22	DF	Kenneth Omeruo	 17 October 1993
+4	MF	Nwankwo Obiorah	 18 June 1989
+10	MF	Mikel John Obi	 22 April 1987
+12	MF	Reuben Gabriel	 25 September 1990
+13	MF	Fegor Ogude	 29 July 1987
+17	MF	Ogenyi Onazi	 25 December 1992
+18	MF	Ejike Uzoenyi	 23 March 1988
+19	MF	Sunday Mba	 28 November 1988
+20	MF	Nosa Igiebor	 9 November 1990
+7	FW	Ahmed Musa	 14 October 1992
+8	FW	Ideye Aide Brown	 10 October 1988
+9	FW	Emmanuel Emenike	 10 May 1987
+11	FW	Victor Moses	 12 December 1990
+15	FW	Ikechukwu Uche	 5 January 1984
+
+
+
+
+
+Zambia 
+#	Pos.	Player	Date of birth
+1	GK	Joshua Titima	 20 October 1992
+16	GK	Kennedy Mweene	 12 November 1984
+22	GK	Danny Munyao	 21 January 1987
+2	DF	Francis Kasonde	 1 September 1986
+4	DF	Joseph Musonda	 30 May 1977
+5	DF	Hijani Himoonde	 15 June 1985
+6	DF	Davies Nkausu	 1 January 1986
+13	DF	Stophira Sunzu	 22 June 1989
+18	DF	Emmanuel Mbola	 10 May 1993
+19	DF	Nathan Sinkala	 23 April 1991
+3	MF	Chisamba Lungu	 31 January 1991
+8	MF	Isaac Chansa	 23 March 1984
+10	MF	Felix Katongo	 18 April 1984
+14	MF	Noah Chivuta	 25 December 1983
+15	MF	William Njovu	 4 March 1987
+17	MF	Rainford Kalaba	 14 August 1986
+21	MF	Jonas Sakuwaha	 22 July 1983
+23	MF	Mukaka Mulenga	 7 June 1993
+7	FW	Jacob Mulenga	 12 February 1984
+9	FW	Collins Mbesuma	 3 February 1984
+11	FW	Christopher Katongo(C)	 31 August 1982
+12	FW	James Chamanga	 2 February 1980
+20	FW	Emmanuel Mayuka	 21 November 1990
+
+
+
+Ethiopia 
+#	Pos.	Player	Date of birth
+1	GK	Sisay Bancha	 24 August 1989
+22	GK	Jemal Tassew	 27 April 1989
+23	GK	Zerihun Tadele	 25 March 1993
+2	DF	Degu Debebe(C)	 19 March 1984
+4	DF	Abebaw Butako	 20 April 1987
+5	DF	Aynalem Hailu	 12 October 1986
+6	DF	Alula Girma	 15 July 1993
+10	DF	Birhanu Bogale	 27 February 1986
+12	DF	Biadgelegn Elias	 24 May 1988
+17	DF	Siyoum Tesfaye	 19 December 1989
+3	MF	Yared Zinabu	 22 June 1989
+8	MF	Asrat Megersa Gobena	 20 June 1987
+14	MF	Minyahil Teshome	 14 November 1985
+15	MF	Dawit Estifanos	 27 February 1988
+16	MF	Yussuf Saleh	 22 March 1984
+18	MF	Shimelis Bekele	 17 October 1990
+20	MF	Behailu Assefa	 30 December 1989
+21	MF	Addis Hintsa	 30 June 1987
+7	FW	Saladin Said	 29 October 1988
+9	FW	Getaneh Kebede	 2 April 1992
+11	FW	Oumed Oukri	 5 December 1990
+13	FW	Fuad Ibrahim	 15 August 1991
+19	FW	Adane Girma	 25 June 1985
+
+
+
+ivory coast
+#	Pos.	Player	Date of birth
+1	GK	Boubacar Barry	 30 December 1979
+16	GK	Daniel Yeboah	 13 November 1984
+23	GK	Badra Ali Sangare	 30 May 1986
+3	DF	Arthur Boka	 2 April 1983
+4	DF	Kolo Touré	 19 March 1981
+14	DF	Ismaël Traoré	 18 August 1986
+17	DF	Siaka Tiéné	 22 February 1982
+20	DF	Igor Lolo	 22 July 1982
+21	DF	Emmanuel Eboué	 4 June 1983
+22	DF	Sol Bamba	 13 January 1985
+5	MF	Didier Zokora	 14 December 1980
+6	MF	Romaric	 4 June 1983
+7	MF	Abdul Razak	 11 November 1992
+9	MF	Cheick Tioté	 21 June 1986
+13	MF	Didier Ya Konan	 25 February 1984
+15	MF	Max Gradel	 30 November 1987
+19	MF	Yaya Touré	 13 May 1983
+2	FW	Arouna Koné	 11 November 1983
+8	FW	Salomon Kalou	 5 August 1985
+10	FW	Gervinho	 27 May 1987
+11	FW	Didier Drogba(C)	 11 March 1978
+12	FW	Wilfried Bony	 10 December 1988
+18	FW	Lacina Traoré	 20 May 1990
+
+
+
+
+
+Togo 
+#	Pos.	Player	Date of birth
+1	GK	Mawugbé Atsou	 20 August 1986
+16	GK	Kossi Agassa	 2 July 1978
+23	GK	Baba Tchagouni	 31 December 1990
+2	DF	Daré Nibombé	 16 June 1980
+5	DF	Serge Akakpo	 15 October 1987
+6	DF	Abdoul-Gafar Mamah	 24 August 1985
+9	DF	Vincent Bossou	 7 February 1986
+13	DF	Sadat Ouro-Akoriko	 1 February 1988
+21	DF	Dakonam Djene	 31 December 1991
+3	MF	Dové Wome	 8 June 1991
+7	MF	Moustapha Salifou	 1 June 1983
+10	MF	Floyd Ayité	 15 December 1988
+12	MF	Sapol Mani	 5 June 1991
+14	MF	Prince Segbefia	 11 March 1991
+15	MF	Alaixys Romao	 18 January 1984
+19	MF	Kodjo Amétépé	 3 October 1990
+20	MF	Kokou Donou	 24 April 1991
+4	FW	Emmanuel Adebayor(C)	 26 February 1984
+8	FW	Komlan Amewou	 15 December 1983
+11	FW	Jonathan Ayité	 21 July 1985
+17	FW	Serge Gakpé	 7 May 1987
+18	FW	Mèmè Placca Fessou	 1 December 1994
+22	FW	Kalen Damessi	 28 March 1990
+
+
+
+
+
+
+
+Tunisia 
+#	Pos.	Player	Date of birth
+1	GK	Farouk Ben Mustapha	 1 July 1989
+16	GK	Aymen Mathlouthi(C)	 14 September 1984
+22	GK	Moez Ben Cherifia	 24 June 1991
+2	DF	Bilel Ifa	 9 March 1990
+3	DF	Walid Hichri	 5 March 1986
+5	DF	Chamseddine Dhaouadi	 15 January 1987
+6	DF	Houssem Belhaj Mabrouk	 8 December 1990
+12	DF	Khalil Chemmam	 24 July 1987
+18	DF	Anis Boussaïdi	 10 April 1981
+20	DF	Aymen Abdennour	 6 August 1989
+4	MF	Hatten Baratli	 9 January 1991
+7	MF	Youssef Msakni	 28 October 1990
+8	MF	Chadi Hammami	 14 June 1986
+10	MF	Oussama Darragi	 3 April 1987
+13	MF	Wissem Ben Yahia	 9 September 1984
+14	MF	Mejdi Traoui	 13 December 1983
+21	MF	Khaled Mouelhi	 13 February 1981
+23	MF	Wahbi Khazri	 8 February 1991
+9	FW	Hamdi Harbaoui	 5 January 1985
+11	FW	Fakhreddine Ben Youssef	 21 June 1991
+15	FW	Zouheir Dhaouadi	 1 January 1988
+17	FW	Issam Jemâa	 28 January 1984
+19	FW	Saber Khelifa	 14 October 1986
+
+
+
+
+Algeria 
+#	Pos.	Player	Date of birth
+23	GK	Raïs M'Bolhi	 25 April 1986
+1	GK	Azzedine Doukha	 5 August 1986
+16	GK	Cédric Si Mohamed	 9 January 1985
+5	DF	Rafik Halliche	 2 September 1986
+6	DF	Djamel Mesbah(C)	 9 October 1984
+12	DF	Carl Medjani	 15 May 1985
+4	DF	Essaïd Belkalem	 1 January 1989
+3	DF	Liassine Cadamuro-Bentaïba	 5 March 1988
+21	DF	Faouzi Ghoulam	 1 February 1991
+22	DF	Ali Rial	 26 March 1980
+18	MF	Khaled Lemmouchia	 6 December 1981
+19	MF	Yacine Bezzaz	 8 October 1981
+8	MF	Medhi Lacen	 15 May 1984
+17	MF	Adlène Guedioura	 12 November 1985
+14	MF	Foued Kadir	 5 December 1983
+7	MF	Ryad Boudebouz	 19 February 1990
+2	MF	Mehdi Mostefa	 30 August 1983
+10	MF	Sofiane Feghouli	 26 December 1989
+20	MF	Saad Tedjar	 14 January 1986
+11	FW	Hameur Bouazza	 2 February 1985
+15	FW	El Arbi Hillel Soudani	 25 November 1987
+9	FW	Islam Slimani	 18 June 1988
+13	FW	Mohamed Amine Aoudia	 6 June 1987
